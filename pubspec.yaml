@@ -1,0 +1,15 @@
+name: decentrifi
+description: A Future-based library for interacting with the Decentrifi Defi Hub. Access data on ENS, lending, borrowing, vaults, farming and staking on multiple chains.
+
+version: 0.1.0
+repository: https://github.com/0xdir/decentrifi
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  http: ^1.0.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
