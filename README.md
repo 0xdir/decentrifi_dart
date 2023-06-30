@@ -54,7 +54,7 @@ and staking into a single API for easy integration.
 
 Submit an issue on [github].
 
-[github]: https://github.com/0xdir/decentrifi
+[github]: https://github.com/0xdir/decentrifi_dart
 
 ## How to contribute
 
@@ -64,7 +64,7 @@ All feedback and suggestions for improvements are welcome:
 2. Discuss proposed changes
 3. Submit a PR (optional)
 
-[github]: https://github.com/0xdir/decentrifi
+[github]: https://github.com/0xdir/decentrifi_dart
 
 ## Support my work
 
